@@ -9,7 +9,6 @@ function callMe() {
     console.log("maybe");
   }
   }
-callMe();
 
 crazy();
 function crazy() {
